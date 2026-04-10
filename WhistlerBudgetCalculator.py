@@ -3,6 +3,7 @@
 # coding: utf-8
 
 ## This document is a whistler budget calculator
+## more to be added as time goes on
 
 # Initialise global variables
 totalBudget = 0
